@@ -57,8 +57,7 @@ jupyter labextension install @techrah/text-shortcuts
 
 - From the command line you can launch: 
 
-
-  1. Jupyter notebook:
+1. Jupyter notebook:
 
 ```bash
 jupyter notebook
