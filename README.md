@@ -33,4 +33,37 @@ pip install notebook
 pip install jupyterlab
 ```
 
+### Installing the R Kernal 
 
+- Install the R Kernel by running the following command from the R Console
+
+```bash
+install.packages('IRkernel')
+```
+
+- Register the kernel in the current R installation by running the following command:
+
+```bash
+IRkernel::installspec()
+````
+
+- Install extensions for RStudio’s shortcuts by running the following command on a command line interface:
+
+```bash
+jupyter labextension install @techrah/text-shortcuts
+```
+
+## Launching Jupyter Notebook and JupyterLab
+
+- From the command line you can launch: 
+  1. Jupyter notebook:
+
+```bash
+jupyter notebook
+```
+
+  2. Jupyterlab 
+
+```bash
+jupyter jupyterlab
+```
