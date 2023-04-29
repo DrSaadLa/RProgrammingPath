@@ -33,9 +33,9 @@ pip install notebook
 pip install jupyterlab
 ```
 
-### Installing the R Kernal 
+### Installing the R Kernel 
 
-- Install the R Kernel by running the following command from the R Console
+- Install the R Kernel by running the following command from the R Console. [source](https://github.com/IRkernel/IRkernel)
 
 ```bash
 install.packages('IRkernel')
