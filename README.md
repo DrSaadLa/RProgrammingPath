@@ -12,7 +12,7 @@ The R Programming Path repository includes the R code examples and practice exer
 
 ### Installing RStudio
 
-  - Install [RStuio](https://posit.co/download/rstudio-desktop/)
+  - Install [RStudio](https://posit.co/download/rstudio-desktop/)
 
 ### Installing Minconda
 
