@@ -66,5 +66,5 @@ jupyter notebook
   2. Jupyterlab 
 
 ```bash
-jupyter jupyterlab
+jupyter lab
 ```
