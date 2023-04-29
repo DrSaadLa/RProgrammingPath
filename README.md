@@ -4,6 +4,33 @@ The R Programming Path repository includes the R code examples and practice exer
 
 ## Installation and Setup
 
+
 ### Installing R 
 
-The first step is to install R from [CRAN](https://cran.r-project.org/)
+  - The first step is to install R from [CRAN](https://cran.r-project.org/)
+
+
+### Installing RStudio
+
+  - Install [RStuio](https://posit.co/download/rstudio-desktop/)
+
+### Installing Minconda
+
+  - Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html#installing)
+
+
+### Installing Jupyter Notebook and JupyterLab
+
+- Install jupyter notebook 
+
+```bash
+pip install notebook
+```
+
+- Install JupyterLab
+
+```bash
+pip install jupyterlab
+```
+
+
