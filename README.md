@@ -57,13 +57,13 @@ jupyter labextension install @techrah/text-shortcuts
 
 - From the command line you can launch: 
 
-1. Jupyter notebook:
+1. Jupyter notebook: Refer to the [documentation](https://docs.jupyter.org/en/latest/)
 
 ```bash
 jupyter notebook
 ```
 
-  2. Jupyterlab 
+  2. Jupyterlab: Refer to the [documentation](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
 
 ```bash
 jupyter lab
